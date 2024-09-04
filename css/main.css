@@ -1,0 +1,36 @@
+body {
+	background-color: mistyrose;
+}
+/***type style***/
+li {
+	color: indigo;
+	margin-left: 50px;
+	font-size: 20px;
+}
+
+h1 {
+	color: rosybrown;
+	font-size: 50px;
+	position: relative;
+	top: 18px;
+	left: 10px;
+}
+
+h2 {
+	font-size: 30px;
+	color: plum;
+	margin-left: 50px;
+}
+
+a:link {
+	color: mediumpurple;
+	font-size: 20px;
+}
+
+a:visited {
+	color: violet;
+}
+
+a:hover {
+	color: crimson;
+}
