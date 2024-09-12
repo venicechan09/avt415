@@ -4,7 +4,7 @@ body {
 /***type style***/
 li {
 	color: indigo;
-	margin-left: 50px;
+	margin-left: 25px;
 	font-size: 20px;
 }
 
@@ -19,7 +19,7 @@ h1 {
 h2 {
 	font-size: 30px;
 	color: plum;
-	margin-left: 50px;
+	margin-left: 25px;
 }
 
 a:link {
@@ -33,4 +33,13 @@ a:visited {
 
 a:hover {
 	color: crimson;
+}
+img {
+	width: 300px;
+}
+h3, p, img {
+	margin-left: 40px;
+}
+h3 {
+	color: purple;
 }
