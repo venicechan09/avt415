@@ -25,14 +25,17 @@ h2 {
 a:link {
 	color: mediumpurple;
 	font-size: 20px;
+	text-decoration: none;
 }
 
 a:visited {
 	color: violet;
+	text-decoration: none;
 }
 
 a:hover {
 	color: crimson;
+	text-decoration: none;
 }
 img {
 	width: 300px;
@@ -42,4 +45,5 @@ h3, p, img {
 }
 h3 {
 	color: purple;
+	font-size: 20px;
 }
