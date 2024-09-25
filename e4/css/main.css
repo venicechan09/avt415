@@ -1,0 +1,35 @@
+body {
+	background-color: goldenrod;
+}
+
+h1 {
+	font-family: sans-serif;
+	font-size: 60px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	color: white;
+	text-align: center;
+	margin-top: 45vh;
+}
+
+@media screen and (min-width: 768px) {
+	body {
+		background-color: seagreen;
+	}
+	h1 {
+		font-size: 100px;
+		color: whitesmoke;
+		margin-top: 35vh;
+	}
+}
+@media screen and (max-width: 768px) {
+	body {
+		background-color: hotpink;
+	}
+	.large-size {
+		display: block;
+	}
+	.small-size {
+		display: none;
+	}
+}
