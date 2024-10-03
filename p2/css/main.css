@@ -1,0 +1,21 @@
+body {
+	background-color: lavenderblush;
+}
+h1 {
+	color: mediumpurple;
+	font-size: 50px;
+	position: relative;
+	top: 20px;
+	left: 550px;
+}
+
+h2 {
+	font-size: 30px;
+	color: mediumpurple;
+	margin-left: 550px;
+}
+
+p {
+	margin-left: 550px;
+	margin-right: 550px;
+}
